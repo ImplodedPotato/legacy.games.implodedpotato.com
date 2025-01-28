@@ -13,7 +13,7 @@ This is a sub domain of [ImplodedPotato.com](https://implodedpotato.com).
 All of these games are either coded in C or C++. 
 I then use [emscripten](https://emscripten.org/) to port the game to the web
 
-##### [Galaga-Like-2D](https://github.com/ImplodedPotato/Galaga-Like-2D)
+#### [Galaga-Like-2D](https://github.com/ImplodedPotato/Galaga-Like-2D)
 
 Coded in C with [Raylib](https://www.raylib.com/)
 Based on the Clear Code's python tutorial on [YouTube](https://www.youtube.com/watch?v=UoAsDlUwjy0&t=15704s)
