@@ -7,6 +7,7 @@ This is a subdomain of [ImplodedPotato.com](https://github.com/ImplodedPotato/im
 ## Avaible Games
 
 1. [Galaga-Like-2D](#galaga-like-2d)
+2. [Galaga-Like-3D](#galaga-like-3d)
 
 ## How Are These Made?
 
@@ -20,5 +21,15 @@ Code: [GitHub](https://github.com/ImplodedPotato/Galaga-Like-2D)
 Play: [Games.ImplodedPotato.com/Galaga-Like-2D](https://games.implodedpotato.com/Galaga-Like-2D/)
 
 Coded in C with [Raylib](https://www.raylib.com/)
+
+Based on the Clear Code's python tutorial on [YouTube](https://www.youtube.com/watch?v=UoAsDlUwjy0&t=15704s)
+
+#### Galaga-Like-3D
+
+Code: [GitHub](https://github.com/ImplodedPotato/Galaga-Like-3D)
+
+Play: [Games.ImplodedPotato.com/Galaga-Like-3D](https://games.implodedpotato.com/Galaga-Like-3D/)
+
+Coded in C++ with [Raylib](https://www.raylib.com/)
 
 Based on the Clear Code's python tutorial on [YouTube](https://www.youtube.com/watch?v=UoAsDlUwjy0&t=15704s)
