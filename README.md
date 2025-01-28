@@ -1,4 +1,4 @@
-# Games.Implodedpotato.com
+# Games.ImplodedPotato.com
 
 A web site where a potato which has been imploded host games to be played on the web!
 
